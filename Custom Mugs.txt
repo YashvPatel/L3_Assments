@@ -1,0 +1,35 @@
+Want me to display the Rice List, comparing prices in grams? y
+List:
++*+*+ Rice Price Comparison +*+*+
+
+{-=-= Rice Costs in Kgs & Grams =-=-=-}
+  _________     _____   ___   _____   ______
+_|Rice type|_  |Grams| |kgs| |Price| |Per kg|
+Arborio Rice]  |1000g| |1.0| |$1.00| |$1.00|
+White Rice]    |3500g| |3.5| |$4.50| |$1.28|
+Brown Rice]    |5000g| |5.0| |$3.50| |$7.00| 
+Bomba Rice]    |3000g| |3.0| |$2.00| |$1.50|
+Jasmine Rice]  |5500g| |5.5| |$4.00| |$0.72|
+ ________________________________________
+[Recommendation: Jasmine Rice, $0.72 / kg]
+(ie: $1.44 for 2kg)
+you may continue
+
+Please enter your weight below...
+Enter your weight in (Grams): 5000
+Type (G) to begin converting: G
+Your weight is: 5.0 Kgs.
+Product name: Rice
+Item name (enter 'xxx' to print list): 50
+Kgs: 3
+How much for a single item? $4
+Item name (enter 'xxx' to print list): xxx
+
+**** Rice Comparison Tool - yashv *****
+
+**** Rice Total Costs ****
+      Quantity  Price    Cost
+item                         
+50         3.0  $4.00  $12.00
+
+Rice Total Costs: $12.00
